@@ -27,5 +27,6 @@ public class ErrorResponse
     public String getDetails()
     {
         return details;
+        // return none
     }
 }
